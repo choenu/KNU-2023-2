@@ -19,7 +19,7 @@ int main(void)
 			b++;
 		}
 		printf(" \n");
-		printf("天天天天天天天天天天天天 \n");
+		printf("---------------------- \n");
 		a++;
 	}
 	return 0;

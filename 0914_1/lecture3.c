@@ -2,7 +2,7 @@
 int main(void)
 {
 	int v1, a, b;
-	printf("a=b, b=15ÀÏ ¶§\n");
+	printf("a=b, b=15ì¼ ë•Œ\n");
 	a = 10;
 	b = 15;
 	v1 = ++a + b--;

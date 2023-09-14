@@ -5,7 +5,7 @@ int main(void)
 	scanf_s("%d", &n);
 
 	if ((n % 2) != 0)
-		printf("%dÀº(´Â) È¦¼ö.", n);
+		printf("%dì€(ëŠ”) ì§ìˆ˜.", n);
 	else
-		printf("%dÀº(´Â) Â¦¼ö.", n);
+		printf("%dì€(ëŠ”) í™€ìˆ˜.", n);
 }
